@@ -1,6 +1,6 @@
 # Part 1: Repository Analysis
 
-## Task 1.0 : Python-heavy repo selection
+## Task 1.1 : Python-heavy repo selection
 
 I checked for the tech-stack for each repo and this was the result:-
 | Repository        | Percentage of Code Written in Python |
