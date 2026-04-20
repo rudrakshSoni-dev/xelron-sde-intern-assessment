@@ -14,7 +14,7 @@ I checked for the tech-stack for each repo and this was the result:-
 
 ### Python-Primary Repository Analysis Table
 
-All the data is taken from the respective documentation and docs of the repositories.
+All the data is refered from the respective documentation and docs of the repositories.
 
 | Repository | Primary Purpose | Key Dependencies | Main Architecture Patterns | Target Domain |
 | :--- | :--- | :--- | :--- | :--- |
